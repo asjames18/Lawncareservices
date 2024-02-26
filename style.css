@@ -19,9 +19,9 @@
   --gray-10: hsl(0, 0%, 10%);
   --gray-16: hsl(0, 0%, 16%);
   --gray-22: hsl(0, 0%, 22%);
-  --yellow-sun-62: hsl(44, 100%, 62%);
+  --yellow-sun-62: hsl(0, 0%, 0%);
   --aussie-green-28: hsl(187, 89%, 28%);
-  --brown-38: hsl(25, 71%, 38%);
+  --brown-38: hsl(235, 100%, 30%);
 }
 
 /* (1) Hero */
