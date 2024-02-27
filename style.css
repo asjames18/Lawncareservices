@@ -82,7 +82,8 @@
   }
   .phone a:hover{
     color: blue;
-    background: white;
+    font-weight: bold;
+    
   }
 
   .hero .content {
@@ -691,7 +692,8 @@
   }
   .phone a:hover{
     color: blue;
-    background: white;
+    font-weight: bold;
+
   }
 
   /* (2) Features */
@@ -1008,7 +1010,7 @@
   }
   .phone a:hover{
     color: blue;
-    background: white;
+    font-weight: bold;
   }
   
 }
