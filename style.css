@@ -789,6 +789,13 @@
 
   footer .wrapper {
     padding: 0px 40px;
+
+  }
+  .wrapper span, .wrapper a{
+    color: var(--gray-96);
+  }
+  .wrapper a:hover{
+    font-weight: bold;
   }
 
   footer .text {
@@ -950,7 +957,7 @@
 
   footer .wrapper {
     width: 1080px;
-    padding: 0px;
+    padding: 0px;   
   }
   .wrapper span, .wrapper a{
     color: var(--gray-96);
