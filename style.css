@@ -76,6 +76,14 @@
   .hero .header .phone {
     display: none;
   }
+  .phone a{
+    text-decoration: none;
+
+  }
+  .phone a:hover{
+    color: blue;
+    background: white;
+  }
 
   .hero .content {
     display: flex;
@@ -642,7 +650,6 @@
     line-height: 16px;
     color: var(--gray-96);
   }
-
   .hero .content {
     max-width: 1080px;
     gap: 56px;
@@ -674,6 +681,14 @@
 
   .guarantee-phone {
     display: none;
+  }
+  .phone a{
+    text-decoration: none;
+
+  }
+  .phone a:hover{
+    color: blue;
+    background: white;
   }
 
   /* (2) Features */
@@ -976,6 +991,14 @@
   }
   .wrapper a:hover{
     font-weight: bold;
+  }
+  .phone a{
+    text-decoration: none;
+
+  }
+  .phone a:hover{
+    color: blue;
+    background: white;
   }
   
 }
