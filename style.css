@@ -603,9 +603,12 @@
     padding: 0px 20px;
     color: var(--gray-96);
 
+
   }
   .wrapper span, .wrapper a{
     color: var(--gray-96);
+    text-decoration: none;
+
   }
   .wrapper a:hover{
     font-weight: bold;
@@ -815,9 +818,12 @@
     color: var(--gray-96);
 
 
+
   }
   .wrapper span, .wrapper a{
     color: var(--gray-96);
+    text-decoration: none;
+
   }
   .wrapper a:hover{
     font-weight: bold;
@@ -984,13 +990,17 @@
     width: 1080px;
     padding: 0px;   
     color: var(--gray-96);
+    text-decoration: none;
 
   }
   .wrapper span, .wrapper a{
     color: var(--gray-96);
+    text-decoration: none;
+
   }
   .wrapper a:hover{
     font-weight: bold;
+    text-decoration: none;
   }
   .phone a{
     text-decoration: none;
